@@ -1,0 +1,125 @@
+.homeContainor{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0f0232;
+    z-index: 2;
+    /* background-image: url('../../public/assets/HomeBack.png'); */
+    /* background-color: #f0f0f0; */
+    /* background-size: cover;
+    background-repeat: no-repeat; */
+}
+.HomeWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    z-index: 2;
+}
+.logo{
+    color: white;
+}
+.Home-sub-title{
+    font-size: 24px;
+    font-family: "Josefin Sans", sans-serif;
+    color: #ffb200;
+    margin-bottom: 13px;
+    margin: 0;
+    align-self: center;
+    font-weight: 600;
+}
+.HomeTitle{
+    color: white;
+    font-size: 60px;
+    margin: 0;
+    text-align: center;
+    z-index: 2;
+}
+.HomeTitle span{
+    color: #ffb200;
+    z-index: 2;
+}
+
+
+.btns{
+    display: flex;
+}
+
+.btns .lastButton{
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 50px;
+    width: 200px; 
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2.5px solid rgb(71, 0, 214);
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(211, 211, 211);
+    -webkit-box-shadow: 0px 0px 3px 0px rgba(26,30,240,0.83);
+    -moz-box-shadow: 0px 0px 3px 0px rgba(26,30,240,0.83);
+    box-shadow: 0px 0px 3px 0px rgba(26,30,240,0.83);
+    cursor: pointer;
+    background-color: #222223;
+    transition: 0.4s all ease;
+}
+
+.HomeWrapper p{
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.7;
+    z-index: 2;
+}
+
+
+.neon-button {
+    background: linear-gradient(to right, #fff200, #ffae00);
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px 24px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px #00ffdb;
+    width: 200px;height: 50px;
+    transition: all 0.2s;
+    margin: 35px 35px;
+    cursor: pointer;
+  }
+  .neon-button a{
+    color: white;
+    text-decoration: none;
+  }
+  
+  .neon-button:hover {
+    background: linear-gradient(to right, #ffae00, #fff200);
+    box-shadow: 0px 0px 30px #00ffdb;
+  }
+  
+
+
+.logon1{
+    color: #00bf63;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.logon2{
+    color: #ff914d;
+    font-family: 'Merriweather Sans', sans-serif;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+/* .logo{
+    width: 200px;
+    height: 200px;
+    
+} */
+
+
+@media (max-width: 1185px) {}
