@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fair360/static/css/main.b7bb3a6a.css",
+    "main.js": "/fair360/static/js/main.cc763263.js",
+    "index.html": "/fair360/index.html",
+    "main.b7bb3a6a.css.map": "/fair360/static/css/main.b7bb3a6a.css.map",
+    "main.cc763263.js.map": "/fair360/static/js/main.cc763263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7bb3a6a.css",
+    "static/js/main.cc763263.js"
+  ]
+}
