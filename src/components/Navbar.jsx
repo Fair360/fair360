@@ -24,7 +24,13 @@ export default function Navbar() {
 
   return (
     <div className='NavContainor' style={{backgroundColor}}>
-        <img className='logo' src="assets/logo.png" alt="" />
+        <div className="leftNav">
+          <span><span className='logon1'>FAIR </span><span className='logon2'>360</span></span>
+          <span className='leftNavbtm'><i>The trust of brand</i></span>
+        </div>
+        <div className="rightNav">
+          <img className='logo' src="assets/logo.png" alt="Fair 360" />
+        </div>
     </div>
   )
 }

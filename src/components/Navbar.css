@@ -1,8 +1,8 @@
 .NavContainor{
-    width: 100vw;
+    width: calc(100vw - 120px);
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     color: white;
     position: fixed;
     top: 0;
@@ -11,6 +11,17 @@
     font-size: 20px;
     /* color: rgb(9, 1, 32); */
     z-index: 10;
+    padding: 0px 60px;
+
+}
+.leftNav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.leftNavbtm{
+    font-size: 17px;
 }
 .logo{
     width: 200px;
