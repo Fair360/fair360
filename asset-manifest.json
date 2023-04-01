@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fair360/static/css/main.fde853d6.css",
-    "main.js": "/fair360/static/js/main.c8d14202.js",
+    "main.css": "/fair360/static/css/main.14900f7d.css",
+    "main.js": "/fair360/static/js/main.49056442.js",
     "index.html": "/fair360/index.html",
-    "main.fde853d6.css.map": "/fair360/static/css/main.fde853d6.css.map",
-    "main.c8d14202.js.map": "/fair360/static/js/main.c8d14202.js.map"
+    "main.14900f7d.css.map": "/fair360/static/css/main.14900f7d.css.map",
+    "main.49056442.js.map": "/fair360/static/js/main.49056442.js.map"
   },
   "entrypoints": [
-    "static/css/main.fde853d6.css",
-    "static/js/main.c8d14202.js"
+    "static/css/main.14900f7d.css",
+    "static/js/main.49056442.js"
   ]
 }
