@@ -15,11 +15,11 @@ export default function Customer() {
                 <div class="col-lg-12 mb-30 wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.3s">
                     <div class="support-card">
                         <div class="support-card__thumb">
-                            <img src="assets/1.png" alt="image" />
+                            <img className='sprtImg' src="assets/1.png" alt="image" />
                         </div>
                         <div class="support-card__content">
                             <h3 class="support-card__title">Talk to our support team</h3>
-                            <p>Reddy Book 247 is one of the oldest book in India extending its roots since 2010. Reddy Book 247 is renowned for its lighting fast service for its clients. We offer 24/7 comprehensive support.</p>
+                            <p className='supportCardContent'><span className='logon1'>FAIR </span><span className='logon2'>360</span> is one of the oldest book in India extending its roots since 2010. Reddy Book 247 is renowned for its lighting fast service for its clients. We offer 24/7 comprehensive support.</p>
                             <div className='contect-all-btn'>
                                 <div class="contect-support-btn">
                                     <a href="https://wa.me/918058266662"
