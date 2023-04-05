@@ -11,7 +11,7 @@ export default function Customer() {
                     <p>Have a question or need help? Contact our friendly support team.</p>
                 </div>
             </div>
-            <div class="row mb-none-30" data-aos-duration="1500" data-aos="fade-up">
+            <div class="row mb-none-30" data-aos-duration="1500" data-aos="fade-up" style={{zIndex: '3'}}>
                 <div class="col-lg-12 mb-30 wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.3s">
                     <div class="support-card">
                         <div class="support-card__thumb">

@@ -4,7 +4,7 @@ import './About.css'
 export default function About() {
   return (
     <div className='about-Wrapper'>
-        <img className='background-img' src="assets/circle2.png" alt="" />
+        <img className='background-img' src="https://firebasestorage.googleapis.com/v0/b/loginform-60d22.appspot.com/o/circle2.png?alt=media&token=c20738f3-460f-4a5d-8a74-f461bfbbac65" alt="" />
         <div className="about-Containor">
             <div className="about-left">
                 <div class="about-Upper-section" data-aos-duration="1500" data-aos="zoom-in">

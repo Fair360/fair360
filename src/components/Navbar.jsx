@@ -20,10 +20,11 @@ export default function Navbar() {
     }
   };
 
-  const backgroundColor = isTop ? '' : 'rgb(9, 1, 32)';
+  const backgroundColor = isTop ? '' : 'rgb(58 4 4)';
+  
 
   return (
-    <div className='NavContainor' style={{backgroundColor}}>
+    <div className={`NavContainor ${isTop ? '' : 'scrolled'}`} style={{backgroundColor}}>
         <div className="leftNav">
           <span><span className='logon1'>FAIR </span><span className='logon2'>360</span></span>
           <span className='leftNavbtm'><i>The Trust of Brand</i></span>
