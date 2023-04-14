@@ -27,7 +27,7 @@ export default function Navbar() {
     <div className={`NavContainor ${isTop ? '' : 'scrolled'}`} style={{backgroundColor}}>
         <div className="leftNav">
           <span><span className='logon1'>FAIR </span><span className='logon2'>360</span></span>
-          <span className='leftNavbtm'><i>The Trust of Brand</i></span>
+          <span className='leftNavbtm'><i>The Brand of Trust</i></span>
         </div>
         <div className="rightNav">
           <img className='logo' src="assets/logo.png" alt="Fair 360" />

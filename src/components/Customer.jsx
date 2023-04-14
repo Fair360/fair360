@@ -21,7 +21,7 @@ export default function Customer() {
                             <h3 class="support-card__title">Talk to our support team</h3>
                             <p className='supportCardContent'><span className='logon1'>FAIR </span><span className='logon2'>360</span> is one of the oldest book in India extending its roots since 2010. Fair 360 is renowned for its lighting fast service for its clients. We offer 24/7 comprehensive support.</p>
                             <div className='contect-all-btn'>
-                                <div class="contect-support-btn">
+                                {/* <div class="contect-support-btn">
                                     <a href="https://wa.me/918058266662"
                                         class="cmn-btn btn-sm text-capitalize">
                                         WhatsApp  +91 8058 26 6662
@@ -32,7 +32,7 @@ export default function Customer() {
                                         class="cmn-btn btn-sm text-capitalize">
                                         WhatsApp  +91 8058 26 6663
                                     </a>
-                                </div>
+                                </div> */}
                                 <div class="contect-support-btn">
                                     <a href="https://wa.link/918058266664"
                                         class="cmn-btn btn-sm text-capitalize">
